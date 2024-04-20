@@ -1,5 +1,5 @@
 Country,Region,Population,Internet Users,% of Population
-_World,,7920539977,5424080321,68.48
+_World,World,7920539977,5424080321,68.48
 Afganistan,Asia,40403518,9237489,22.86
 Albania,Europe,2872758,2191467,76.28
 Algeria,Africa,45150879,37836425,83.80
@@ -55,7 +55,7 @@ Costa Rica,America,5170019,4425600,85.60
 Cote d'Ivoire,Africa,27473629,12253653,44.60
 Croatia,Europe,4046915,3787838,93.60
 Cuba,America,11315552,8373508,74.00
-Curaçao,America,165178,151274,91.58
+CuraÃ§ao,America,165178,151274,91.58
 Cyprus,Europe,1221767,1320400,108.07
 Czech Republic,Europe,10741182,9323428,86.80
 Denmark,Europe,5825378,5689589,97.67
@@ -200,7 +200,7 @@ South Africa,Africa,60041994,34545165,57.54
 South Sudan,Africa,11381378,900716,7.91
 Spain,Europe,46784067,43509182,93.00
 Sri Lanka,Asia,21558620,8879700,41.19
-St. Barthélemy (FR),America,9926,7079,71.32
+St. BarthÃ©lemy (FR),America,9926,7079,71.32
 St. Kitts & Nevis,America,53811,45800,85.11
 St. Martin (FR),America,39761,19900,50.05
 St. Pierre & Maquelon,America,5749,5200,90.45
